@@ -1,26 +1,64 @@
-# Subject-Timetable-Scheduler-for-Excel
+# Timetable Generator Project
 
-This Project contains of 3 files which is the excel file, python script and the exe file.
+This project consists of 3 files: an Excel file, a Python script, and an executable file.
 
-Steps for using it:
-1.  Download the whole file
-2.  Ensure the files are in same directory
-     e.g. test.xlsm and scheduler.exe are in Download Folder
-3.  Enable macro for Excel
-    Steps:
-    a. Open Excel
-    b. Go to Options
-    c. Go to Trust Center and click on Trust Center Settings
-    d. Go to Macro Settings
-    e. Click on Enable VBA macros
-5.  Unlock the sheet using the password 1234
-6.  Login using the credential where
-    username = admin
-    password = admin123
-7.  Click on the main menu for further moves.
-8.  Choose which information page you want to view, add or edit.
-9.  Click on generate timetable in the menu after everything is done.
-10. Timetable will be generated based on the details key in. 
-    p.s. Lecturer columns are leave blank intentionally to allow the admin to insert based on the lecturers' expertise on certain subjects.
-11. Visualizations about the generated timetable also can be seen in the visualization sheet to know the resource allocations of the venues.
-12. Enjoy using it ~
+## Files Included:
+- `test.xlsm` (Excel file with macros)
+- `scheduler.py` (Python script)
+- `scheduler.exe` (Compiled executable)
+
+## Steps to Use the Project
+
+Follow these steps to set up and use the Timetable Generator:
+
+### 1. **Download the Project**
+   Download all the files included in the project and make sure they are stored in the **same directory**. For example, place both `test.xlsm` and `scheduler.exe` in your **Downloads** folder.
+
+### 2. **Enable Macros for Excel**
+   To ensure that macros work correctly in Excel, you need to enable them:
+
+   1. Open Excel.
+   2. Go to **File > Options**.
+   3. Click on **Trust Center** in the left sidebar.
+   4. Click on **Trust Center Settings**.
+   5. Select **Macro Settings** from the options.
+   6. Click on **Enable VBA macros**.
+
+### 3. **Unlock the Sheets**
+   Once the workbook is opened, you will need to unlock the sheets to make them editable:
+
+   - Use the password **`1234`** to unprotect the sheets.
+
+### 4. **Login to the Application**
+   - Open the **Login Form** within the workbook.
+   - Use the following credentials to log in:
+     - **Username**: `admin`
+     - **Password**: `admin123`
+
+### 5. **Use the Main Menu**
+   After logging in, the main menu will be displayed. From here, you can:
+
+   - Choose the page where you want to **view**, **add**, or **edit** information.
+   - Click on **Generate Timetable** after all the required information is added.
+
+### 6. **Generate the Timetable**
+   Once everything is set up, click the **Generate Timetable** button. The timetable will be generated based on the data you input.
+
+   **Note**: The **Lecturer** columns in the timetable are left blank intentionally, so the admin can insert lecturers based on their expertise in certain subjects.
+
+### 7. **Visualizations**
+   After generating the timetable, you can view visualizations of the resource allocations in the **Visualization Sheet**. This will help you understand how the venues are utilized in the timetable.
+
+---
+
+### Enjoy using the Timetable Generator!
+
+Feel free to explore the system, generate timetables, and analyze the visualizations. If you encounter any issues, don't hesitate to reach out.
+
+---
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with improvements or bug fixes.
