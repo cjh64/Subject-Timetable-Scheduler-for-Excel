@@ -38,7 +38,7 @@ Follow these steps to set up and use the Timetable Generator:
 
 ## Generate the Timetable 🕒
 
-Once everything is set up, click the **Generate Timetable** button. The timetable will be generated based on the data you input.
+Once everything is set up, open the sheet and redirect to the main menu. Click the **Generate Timetable** button. The timetable will be generated based on the data you input.
 
 **Note**: The **Lecturer** columns in the timetable are left blank intentionally, so the admin can insert lecturers based on their expertise in certain subjects.
 
