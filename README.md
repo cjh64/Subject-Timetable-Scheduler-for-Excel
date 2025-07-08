@@ -1,6 +1,6 @@
 # Timetable Generator Project 🗓️
 
-![Header Image](https://nestinfo.in/wp-content/uploads/2025/05/hero.png)  <!-- Add your header image URL here -->
+![Header Image](https://nestinfo.in/wp-content/uploads/2025/05/hero.png)
 
 This project consists of 3 files: an **Excel file**, a **Python script**, and an **executable file**.
 
@@ -27,7 +27,6 @@ Follow these steps to set up and use the Timetable Generator:
 
 ### 2. **Enable Macros for Excel ⚙️**
    To ensure that macros work correctly in Excel, you need to enable them:
-
    1. Open Excel.
    2. Go to **File > Options**.
    3. Click on **Trust Center** in the left sidebar.
