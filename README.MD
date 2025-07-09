@@ -10,6 +10,10 @@ This project consists of 3 files: an **Excel file**, a **Python script**, and an
 - `scheduler.exe` (Compiled executable)
 
 ---
+## Tools Needed 📁:
+- `Microsoft Excel` (To Open the Excel file with macros)
+
+---
 
 ## Table of Contents 📑
 - [Steps to Use the Project 🚀](#steps-to-use-the-project)
