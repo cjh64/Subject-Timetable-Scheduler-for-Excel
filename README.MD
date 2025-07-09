@@ -44,7 +44,7 @@ Once everything is set up, open the sheet and redirect to the main menu. Click t
 
 **Credential**: 
 1. The **Password** to unlock the sheet is 1234.
-2. The **Username** for the login would be admin and **Password** would be 1234.
+2. The **Username** for the login would be admin and **Password** would be admin123.
 
 ---
 
