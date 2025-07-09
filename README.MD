@@ -16,9 +16,9 @@ This project consists of 3 files: an **Excel file**, a **Python script**, and an
 ---
 
 ## Table of Contents 📑
-- [Steps to Use the Project 🚀](#steps-to-use-the-project)
-- [Generate the Timetable 🕒](#generate-the-timetable)
-- [Visualizations 📊](#visualizations)
+- [Steps to Use the Project 🚀](#steps-to-use-the-project-)
+- [Generate the Timetable 🕒](#generate-the-timetable-)
+- [Visualizations 📊](#visualizations-)
 
 ---
 
