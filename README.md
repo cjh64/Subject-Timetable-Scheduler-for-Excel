@@ -42,6 +42,10 @@ Once everything is set up, open the sheet and redirect to the main menu. Click t
 
 **Note**: The **Lecturer** columns in the timetable are left blank intentionally, so the admin can insert lecturers based on their expertise in certain subjects.
 
+**Credential**: 
+1. The **Password** to unlock the sheet is 1234.
+2. The **Username** for the login would be admin and **Password** would be 1234.
+
 ---
 
 ## Visualizations 📊
