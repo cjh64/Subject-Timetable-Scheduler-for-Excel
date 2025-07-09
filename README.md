@@ -50,7 +50,7 @@ Once everything is set up, open the sheet and redirect to the main menu. Click t
 
 ## Visualizations 📊
 
-After generating the timetable, you can view visualizations of the resource allocations in the **Visualization Sheet**. This will help you understand how the venues are utilized in the timetable.
+After generating the timetable, you can view visualizations of the resource allocations in the **Dashboard Sheet**. This will help you understand how the venues are utilized in the timetable.
 
 ---
 
