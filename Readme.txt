@@ -29,7 +29,7 @@ Follow these steps to set up and use the Timetable Generator:
    Download all the files included in the project and make sure they are stored in the same directory. 
    For example, place both test.xlsm and scheduler.exe in your Downloads folder.
 
-2. **Enable Macros for Excel**
+2. **Enable Macros for Excel** ⚠ Very Important to enable to macro first!!
    To ensure that macros work correctly in Excel, you need to enable them:
    a. Open Excel.
    b. Go to File > Options.
